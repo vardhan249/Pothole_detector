@@ -13,7 +13,7 @@ It's very difficult to maintain roadways specially if you want to keep a check f
 
 - [DeepStream] - Streaming Analytics toolkit for video, image, audio processing/understanding.
 - [TensorRT] - TensorRT is a machine learning framework that is used to run machine learning inference on Nvidia hardware.
-- [YOLOV3] - YOLO is a advanced computer vision algorithm that is used in object detection.
+- [YOLOV5] - YOLO is a advanced computer vision algorithm that is used in object detection.
 - [Jetson] - It is a SOM device manufactured by Nvidia for running tensor intensive application.
 
 ![Jetson](https://i.imgur.com/eCMj2EV.jpg)
